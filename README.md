@@ -11,4 +11,4 @@ The webserver can be accessed at:
 
 http://localhost:3000
 
-#By Alexis Attardo
+By Alexis Attardo
